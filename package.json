@@ -1,14 +1,22 @@
 {
   "name": "learn-eslint",
   "version": "1.0.0",
-  "description": "learn eslint ",
+  "description": "+ 参考链接 ![eslint](https://zhuanlan.zhihu.com/p/184951182 '知乎无名之辈')",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llifangyin/learn-eslint.git"
   },
   "keywords": [
     "eslint"
   ],
   "author": "lifangyin",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llifangyin/learn-eslint/issues"
+  },
+  "homepage": "https://github.com/llifangyin/learn-eslint#readme"
 }
